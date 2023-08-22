@@ -43,7 +43,7 @@ https://github.com/trustedsec/Obsidian-Vault-Structure/blob/main/.gitignore
 
 ![8-gitignore](https://github.com/dev-divi/Obsidian-Vault-Instructions-Easy-Mode/assets/91709492/81616fc0-6e6e-4323-b0d4-8396bebf4889)
 
-## 8 - In Github, fill out the text boxes, click the commit button, and you're Obsidian will sail to the clouds! 
+## 8 - In Github, fill out the text boxes, click the commit button, and your vault will sail to the clouds! 
 
 ![9-Commit](https://github.com/dev-divi/Obsidian-Vault-Instructions-Easy-Mode/assets/91709492/36bda91f-3a6f-45b5-8b87-bb3641e33e03)
 
